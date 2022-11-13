@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+
+}
+b{
+  font-size: 14px;
+}
+#first-section{
+  font-size: 18px;
+  color: green;
+  border: 1px solid green;
+  padding: 10px;
+}
+#second-section{
+  font-size: 18px;
+  color: red;
+  border: 1px solid red;
+  padding: 10px;
+  margin-top: 10px;
+}
+#third-section{
+  font-size: 18px;
+  color: blue;
+  border: 1px solid blue;
+  padding: 10px;
+  margin-top: 10px;
+}
